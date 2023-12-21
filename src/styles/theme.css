@@ -1,0 +1,106 @@
+:root {
+  /* white */
+  --color-chalk-50: #ffffff;
+  --color-chalk-100: #fefefe;
+  --color-chalk-200: #f5f7f8;
+  --color-chalk-300: #fafbfb;
+  --color-chalk-400: #00000000;
+
+  /* grays */
+  --color-graphite-50: #f1f1f1;
+  --color-graphite-100: #89949f;
+  --color-graphite-200: #00062e80;
+  --color-graphite-300: #00062e4d;
+
+  /* blue */
+  --color-primary-50: #eeeeee;
+  --color-primary-100: #ebf0f2;
+  --color-primary-200: #ccdbe0;
+  --color-primary-300: #00a7e1;
+
+  /* blacks */
+  --color-secondary-50: #00062e;
+  --color-secondary-100: #000529;
+  --color-secondary-200: #000000;
+
+  /* red */
+  --color-tomato-50: #ef622f;
+  --color-tomato-100: #f45b69;
+  --color-tomato-200: #df4b38;
+
+  /* grape */
+  --color-grape-50: #78C926;
+}
+
+.winter-theme {
+  /* white */
+  --color-chalk-50: #ffffff;
+  --color-chalk-100: #fefefe;
+  --color-chalk-200: #f5f7f8;
+  --color-chalk-300: #fafbfb;
+  --color-chalk-400: #00000000;
+
+  /* grays */
+  --color-graphite-50: #f1f1f1;
+  --color-graphite-100: #89949f;
+  --color-graphite-200: #00062e80;
+  --color-graphite-300: #00062e4d;
+
+  /* blue */
+  --color-primary-50: #eeeeee;
+  --color-primary-100: #ebf0f2;
+  --color-primary-200: #ccdbe0;
+  --color-primary-300: #00a7e1;
+
+  /* blacks */
+  --color-secondary-50: #00062e;
+  --color-secondary-100: #000529;
+  --color-secondary-200: #000000;
+
+  /* red */
+  --color-tomato-50: #78C926;
+  --color-tomato-100: #f45b69;
+  --color-tomato-200: #df4b38;
+
+  /* grape */
+  --color-grape-50: #78C926;
+}
+
+.dark-theme {
+  /* white */
+  --color-chalk-50: #08080a;
+  --color-chalk-100: #182425;
+  --color-chalk-200: #00062e;
+  --color-chalk-300: #000529;
+  --color-chalk-400: #08080a;
+
+  /* grays */
+  --color-graphite-50: #cad6e280;
+  --color-graphite-100: #89949f;
+  --color-graphite-200: #ebf0f2;
+  --color-graphite-300: #00062e4d;
+
+  /* blue */
+  --color-primary-50: #00062e;
+  --color-primary-100: #000529;
+  --color-primary-200: #89949f;
+  --color-primary-300: #00a7e1;
+
+  /* blacks */
+  --color-secondary-50: #eeeeee;
+  --color-secondary-100: #ebf0f2;
+  --color-secondary-200: #ccdbe0;
+
+  /* red */
+  --color-tomato-50: #000;
+  --color-tomato-100: #f45b69;
+  --color-tomato-200: #df4b38;
+
+  /* grape */
+  --color-grape-50: #78C926;
+}
+
+.dark-invert {
+  /* filter: grayscale(100%) invert(92%) contrast(83%); */
+  filter: invert(92%) hue-rotate(180deg);
+}

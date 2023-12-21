@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Druk-bold';
+  src: url('../../public/font/DrukCyr-Heavy.woff') format('woff');
+}
+@font-face {
+  font-family: 'Druk-medium';
+  src: url('../../public/font/DrukCyr-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'TradeGothicLTStd';
+  src: url('../../public/font/TradeGothicLTStd.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TradeGothicLTStd';
+  src: url('../../public/font/TradeGothicLTStd.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TradeGothicCondensed';
+  src: url('../../public/font/Trade_Gothic_LT_Condensed_No18.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'TradeGothicLight';
+  src: url('../../public/font/Trade_Gothic_LT_Light.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Trade Gothic LT Bold Condensed';
+  src: url('../../public/font/Trade_Gothic_LT_Bold_Condensed_No._20.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Trade Gothic LT Condensed';
+  src: url('../../public/font/Trade_Gothic_LT_Condensed_No18.ttf') format('woff');
+}

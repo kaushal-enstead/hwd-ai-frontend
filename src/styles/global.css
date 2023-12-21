@@ -1,0 +1,76 @@
+*:focus {
+  outline: none;
+}
+button:focus {
+  outline: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+/* Chrome, Edge, and Safari */
+.textArea::-webkit-scrollbar {
+  width: 6px;
+}
+
+.textArea::-webkit-scrollbar-track {
+  background: var(--color-secondary-50);
+  border-radius: 0px;
+}
+
+.textArea::-webkit-scrollbar-thumb {
+  background-color: var(--color-tomato-50);
+  border-radius: 3px;
+}
+
+.textArea::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-tomato-50);
+}
+
+/* .textArea::-webkit-resizer {
+  color: var(--color-tomato-50);
+  background-color: var(--color-secondary-50);
+} */
+
+.selectedFrame {
+  background-color: var(--color-tomato-50);
+  transform: rotate(1deg);
+}
+.selectedFrame img {
+  transform: rotate(-1deg);
+}
+
+.reactEasyCrop_CropArea {
+  border: 2px solid var(--color-tomato-50, 0.5) !important;
+}
+.carousel-slider {
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--color-secondary-50);
+  border-radius: 0px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--color-tomato-50);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-tomato-50);
+}
